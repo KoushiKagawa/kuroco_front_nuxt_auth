@@ -87,7 +87,7 @@
             </v-carousel>
 
             <h1 class="text-left mt-5 pt-4">
-                Latest articles
+                Latest articles 一覧
             </h1>
             <v-topics :topics="topics" />
 
